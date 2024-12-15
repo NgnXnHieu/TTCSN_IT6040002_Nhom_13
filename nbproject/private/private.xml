@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/abc/OneDrive/Documents/NetBeansProjects/Project13/src/model/User.java</file>
+            <file>file:/C:/Users/abc/OneDrive/Documents/NetBeansProjects/Project13/src/views/MainJFrame.java</file>
+            <file>file:/C:/Users/abc/OneDrive/Documents/NetBeansProjects/Project13/src/views/ProductPanel.java</file>
+            <file>file:/C:/Users/abc/OneDrive/Documents/NetBeansProjects/Project13/src/dao/ProductDAO.java</file>
+            <file>file:/C:/Users/abc/OneDrive/Documents/NetBeansProjects/Project13/src/views/InforUser.java</file>
+            <file>file:/C:/Users/abc/OneDrive/Documents/NetBeansProjects/Project13/src/views/BillPanel.java</file>
+            <file>file:/C:/Users/abc/OneDrive/Documents/NetBeansProjects/Project13/src/controller/changeview_controller.java</file>
+            <file>file:/C:/Users/abc/OneDrive/Documents/NetBeansProjects/Project13/src/views/StaffPanel.java</file>
+            <file>file:/C:/Users/abc/OneDrive/Documents/NetBeansProjects/Project13/src/views/GuestPanel.java</file>
+            <file>file:/C:/Users/abc/OneDrive/Documents/NetBeansProjects/Project13/src/model/Product.java</file>
+            <file>file:/C:/Users/abc/OneDrive/Documents/NetBeansProjects/Project13/src/dao/GuestDAO.java</file>
+            <file>file:/C:/Users/abc/OneDrive/Documents/NetBeansProjects/Project13/src/dao/BillDAO.java</file>
+            <file>file:/C:/Users/abc/OneDrive/Documents/NetBeansProjects/Project13/src/model/Bill.java</file>
+            <file>file:/C:/Users/abc/OneDrive/Documents/NetBeansProjects/Project13/src/model/Staff.java</file>
+            <file>file:/C:/Users/abc/OneDrive/Documents/NetBeansProjects/Project13/src/views/LoginForm.java</file>
+            <file>file:/C:/Users/abc/OneDrive/Documents/NetBeansProjects/Project13/src/ConnectDB/connection/JDBCConnection.java</file>
+            <file>file:/C:/Users/abc/OneDrive/Documents/NetBeansProjects/Project13/src/views/RevenuePanel.java</file>
+            <file>file:/C:/Users/abc/OneDrive/Documents/NetBeansProjects/Project13/src/model/Guest.java</file>
+            <file>file:/C:/Users/abc/OneDrive/Documents/NetBeansProjects/Project13/src/dao/StaffDAO.java</file>
+            <file>file:/C:/Users/abc/OneDrive/Documents/NetBeansProjects/Project13/src/views/MainMenu.java</file>
+            <file>file:/C:/Users/abc/OneDrive/Documents/NetBeansProjects/Project13/src/dao/UserDAO.java</file>
+        </group>
+    </open-files>
+</project-private>
